@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Foom_Test.Properties
+namespace Form_Test.Properties
 {
 
 

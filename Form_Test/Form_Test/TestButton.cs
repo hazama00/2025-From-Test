@@ -122,11 +122,10 @@ namespace Form_Test
                 {
                     Application.Exit();
                 }
-
-
             }
-
         }
+
+    
 
         private int[][] _toggleData =
         {

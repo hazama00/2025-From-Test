@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{35AF9405-DA6E-4E23-9FD8-09019236935F}</ProjectGuid>
+    <ProjectGuid>{5CC3DB30-4FC5-4C8F-A3C5-94B4DB9EDA51}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Foom_Test</RootNamespace>
-    <AssemblyName>Foom_Test</AssemblyName>
+    <RootNamespace>Form_Test</RootNamespace>
+    <AssemblyName>Form_Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,7 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Testbutton.cs">
+    <Compile Include="TestButton.cs">
       <SubType>Component</SubType>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
